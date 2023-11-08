@@ -47,6 +47,13 @@ https://instagram.com/zal_x_u
 °
 °
 °
+°
+°
+°
+°
+°
+°
+°
 ### :fire: comand termux :
 
 ```yaml 
