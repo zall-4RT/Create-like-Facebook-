@@ -8,6 +8,17 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ### :fire: comand termux :
 
 ```yaml 
