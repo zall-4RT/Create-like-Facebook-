@@ -1,7 +1,9 @@
 # Create-like-Facebook-
 
 
-#termux comand👇-
+
+### :fire: comand termux :
+
 ```yaml 
 $ apt update -y && apt upgrade -y
 $ pkg install git python-pip
