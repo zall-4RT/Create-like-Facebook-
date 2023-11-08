@@ -1,8 +1,7 @@
 # Create-like-Facebook-
 
 
-<h1>
-  termux comand
+#termux comand👇
 ```yaml 
 $ apt update -y && apt upgrade -y
 $ pkg install git python-pip
