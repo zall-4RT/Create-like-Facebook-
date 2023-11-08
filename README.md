@@ -5,7 +5,7 @@
 ### :fire: Instagram me:
 https://instagram.com/zal_x_u
 
-### :fire: what'sal me:
+### :fire: what'sapp me:
 ```yaml 
 +62 882-1018-0505
 ```
@@ -21,7 +21,9 @@ https://instagram.com/zal_x_u
 +62 882-1018-0505
 ```
 
-
+°
+°
+°
 ### :fire: comand termux :
 
 ```yaml 
