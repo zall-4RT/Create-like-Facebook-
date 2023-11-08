@@ -1,7 +1,7 @@
 # Create-like-Facebook-
 
 ```yaml 
- $ apt update -y && apt upgrade -y
+$ apt update -y && apt upgrade -y
 $ pkg install git python-pip
 $ git clone https://github.com/RozhakXD/MachineLiker
 $ cd "MachineLiker"
