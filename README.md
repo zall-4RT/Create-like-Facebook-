@@ -1,6 +1,14 @@
 # Create-like-Facebook-
 
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
+
 
 ### :fire: Instagram me:
 https://instagram.com/zal_x_u
