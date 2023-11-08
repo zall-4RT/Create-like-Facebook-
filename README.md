@@ -8,3 +8,8 @@ $ cd "MachineLiker"
 $ python -m pip install -r requirements.txt
 $ python Run.py
 ```
+
+```yaml 
+$ cd "$HOME/MachineLiker" && git pul
+$ python Run.py
+```
