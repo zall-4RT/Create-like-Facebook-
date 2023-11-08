@@ -120,7 +120,10 @@ $ python Run.py
 ```yaml 
 $ cd "$HOME/MachineLiker" && git pul
 $ python Run.py
-script by:RozhakXD
+
+
+
+©script by:RozhakXD
 ```
 
 
