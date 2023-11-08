@@ -15,3 +15,9 @@ $ python Run.py
 $ cd "$HOME/MachineLiker" && git pul
 $ python Run.py
 ```
+
+
+
+
+### :fire: My Stats :
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=zall-4RT&show_icons=true&theme=radical)
